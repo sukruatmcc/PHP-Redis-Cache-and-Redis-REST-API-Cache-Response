@@ -9,6 +9,6 @@ Php Guzzle
 https://jsonplaceholder.typicode.com/
 https://docs.guzzlephp.org/
 
-AND
+and 
 in terminal
 composer require guzzlehttp/guzzle
